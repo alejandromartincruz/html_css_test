@@ -1,12 +1,29 @@
-p {
+.niceParagraph {
   background-color: grey;
+  font-family: "Baskerville";
+}
+
+#finalParagraph {
+  background-color: red;
+  font-family: "Baskerville";
 }
 
 header {
   color: purple;
   font-size: 28px;
+  font-family: "Serif";
 }
+
+/*body {
+  background-color: grey;
+  font-family: "Baskerville";
+}
+*/
 
 footer {
   color: orange;
+}
+
+footer p {
+  background-color: black;
 }
