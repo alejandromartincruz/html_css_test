@@ -8,22 +8,45 @@
   font-family: "Baskerville";
 }
 
-header {
-  color: purple;
-  font-size: 28px;
-  font-family: "Serif";
+#nav_p {
+  color: #E9E9E9;
+  font-size: 58px;
+  font-family: "Mrs Sheppards";
+  font-style: normal;
+  font-variant: normal;
 }
 
-/*body {
+.background_dark {
+	background-color: #222930;
+}
+
+.green_color {
+    background-color: #4EB1BA;
+}
+
+.white_text {
+  color: #E9E9E9;
+}
+
+.borderline {
+	border: 1px solid black;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  color: orange;
+}
+
+/*header {
+  color: purple;
+  font-size: 28px;
+  font-family: "Aclonica";
+}
+
+body {
   background-color: grey;
   font-family: "Baskerville";
 }
 */
 
-footer {
-  color: orange;
-}
-
-footer p {
-  background-color: black;
-}
