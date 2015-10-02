@@ -38,6 +38,27 @@ footer {
   color: orange;
 }
 
+article {
+	padding: 30px;
+	margin: 10px;
+	text-align: justify;
+}
+
+.division {
+	padding: 10px;
+	margin: 10px 1px;
+}
+
+.floatedBox {
+    float: left;
+}
+
+.shadowedBox {
+  -webkit-box-shadow:10px 5px 5px #888888;
+  -moz-box-shadow:10px 5px 5px #888888;
+  box-shadow:10px 5px 5px #888888;
+}
+
 /*header {
   color: purple;
   font-size: 28px;
